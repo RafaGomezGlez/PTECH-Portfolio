@@ -2,8 +2,9 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
+  
   return (
-    <div className="App">
+    <div>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
@@ -17,6 +18,24 @@ function App() {
         >
           Learn React
         </a>
+        <p>
+          This is a simple React application.
+        </p>
+        <p>
+          It is designed to demonstrate the use of React components and styling.
+        </p>
+        <p>
+          You can modify this code to create your own React application.
+        </p>
+        <p>
+          This is a simple addition to the original code.
+        </p>
+        <p>
+          You can add more features and components as needed.
+        </p>
+        <p>
+          This is a simple addition to the original code.
+        </p>
       </header>
     </div>
   );
